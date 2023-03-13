@@ -42,6 +42,7 @@ This is primary AI learning guide for pharmaceutical students.
 
 -   Git
     -   Learn the basic commands, such as `clone`, `pull` and `push`
+    -   You can find in [Git Use course](https://zhuanlan.zhihu.com/p/135183491)
 
 ## 2. Editor
 
