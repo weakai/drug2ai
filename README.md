@@ -78,5 +78,6 @@ Maybe you would like those two outstanding IDE.
 
 - [Li Mu：Read papers in three rounds](https://www.bilibili.com/video/BV1H44y1t75x)
 
-## 8. Relevant Knowledge
+## 8. Math
+
 - [Linear Algebra](https://www.bilibili.com/video/BV1ib411t7YR/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=18d2716e10f54bf325d88320f12c165e)
