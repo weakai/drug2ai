@@ -69,6 +69,9 @@ Maybe you would like those two outstanding IDE.
 
 ## 3. Python
 
+- It is good to learn C/C++ before you learning of python.
+    - [C Prime Plus](https://pan.baidu.com/s/1Xray5rOxogY7Kiyzh_RYSQ?pwd=w3ya) is a classical programming book for all level learner.
+
 ## 4. Machine Learning
 
 ## 5. Deep Learning
