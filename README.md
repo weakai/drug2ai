@@ -12,6 +12,7 @@ This is primary AI learning guide for pharmaceutical students.
     - Your should learn how to search for your question to solve your problems, its a big deal.
 
 - Feel free to learn any part of your interesting, and skip theose part that is chanllange for you.
+    - Always keep in mind that, the more you learn, the less you know.
 - What kind of books shall we read?
     - Famous publication, such as `机械工业出版社`, and forget about `清华出版社` or somthing else.
     - Classic vedio/books that recommended on `Zhihu` or `Bilibili`
